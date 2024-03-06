@@ -1,0 +1,48 @@
+.Preta{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.Marrom{
+    background-color: rgb(165,42,42);
+    color: rgb(255, 255, 255);
+}
+.Vermelho{
+    background-color: rgb(255,0,0);
+    color: rgb(255, 255, 255);
+}
+.Laranja{
+    background-color: rgb(255,165,0);
+    color: rgb(255, 255, 255);
+}
+.Amarelo{
+    background-color: rgb(255, 255, 0);
+    color: rgb(255, 255, 255);
+}
+.Verde{
+    background-color: rgb(0,128,0);
+    color: rgb(255, 255, 255);
+}
+.Azul{
+    background-color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+}
+.Violeta{
+    background-color: rgb(238,130,238);
+    color: rgb(255, 255, 255);
+}
+.Cinza{
+    background-color: rgb(128,128,128);
+    color: rgb(255, 255, 255);
+}
+.Branco{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.Dourado{
+    background-color: rgb(255,215,0);
+    color: rgb(255, 255, 255);
+}
+.Prata{
+    background-color: rgb(192,192,192);
+    color: rgb(0, 0, 0);
+}
